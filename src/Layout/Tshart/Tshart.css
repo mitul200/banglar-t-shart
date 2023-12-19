@@ -1,0 +1,11 @@
+.t-shart {
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+.t-shart img{
+    width: 200px;
+    height: 250px;
+    border-radius: 15px;
+}
